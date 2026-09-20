@@ -25,6 +25,7 @@
 <td width="100%" align="center"> 
    <h3 align="center"> Mi CV </h3>
  <a href="https://brayancastro39698.github.io/miCv/">  <img src="https://imgur.com/UfZSiQe.jpg"  width="500"  alt="MobiAI"> </a>
+  <br>
   <img src="https://img.shields.io/badge/CÓDIGO-00AFFF?style=for-the-badge&logo=github&logoColor=black">
 
  <p align="center"> Buscando mi próxima oportunidad laboral. Conoce más sobre mí</p>
