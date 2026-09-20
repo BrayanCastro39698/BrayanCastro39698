@@ -5,7 +5,7 @@
 </div>
 
 
-<img src="https://imgur.com/F90S5yW.jpg"  max- height="410px">
+<img src="https://imgur.com/F90S5yW.jpg"  max-height="410px">
 
 
 ## Sobre mi
@@ -19,6 +19,7 @@
 ## Mi experiencia 
 
 
-<div>
-  
-</div>
+
+  <img src="https://imgur.com/UfZSiQe.jpg"  max-height="300px">
+
+
