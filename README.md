@@ -24,7 +24,7 @@
   <tr> 
 <td width="100%" align="center"> 
    <h3 align="center"> Mi CV </h3>
-  <img src="https://imgur.com/UfZSiQe.jpg"  width="500"  alt="MobiAI">
+ <a href="https://brayancastro39698.github.io/miCv/">  <img src="https://imgur.com/UfZSiQe.jpg"  width="500"  alt="MobiAI"> </a>
  
 </td>
 </tr>
