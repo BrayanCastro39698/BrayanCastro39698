@@ -42,17 +42,19 @@
 ## 𝐌𝐢𝐬 𝐩𝐫𝐨𝐲𝐞𝐜𝐭𝐨𝐬
 
 
-<div>
+
 <table> 
 <tr> 
-<td width="100%" > 
-
+<td width="50%"> 
+<h3 align="center">𝙋𝙖𝙜𝙞𝙣𝙖 𝙬𝙚𝙗</h3>
+ <div align="center"> 
   <img src="https://github.com/BrayanCastro39698/miCv/blob/main/arycaCocinasbanner.jpg" width="400">
   <p>𝙋𝙖𝙜𝙞𝙣𝙖 𝙒𝙀𝙗 𝙙𝙞𝙨𝙚ñ𝙖𝙙𝙖 𝙥𝙖𝙧𝙖 𝙢𝙞𝙘𝙧𝙤-𝙚𝙢𝙥𝙧𝙚𝙨𝙖 𝙙𝙚𝙙𝙞𝙘𝙖𝙙𝙖 𝙖 𝙡𝙖 𝙛𝙖𝙗𝙧𝙞𝙘𝙖𝙘𝙞ó𝙣 𝙙𝙚 𝙘𝙤𝙘𝙞𝙣𝙖𝙨 𝙮 𝙘𝙡𝙤𝙨𝙚ts 𝙙𝙚 𝙢𝙖𝙙𝙚𝙧𝙖. 𝙎𝙚 𝙙𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙤 𝙞𝙢𝙥𝙡𝙚𝙢𝙚𝙩𝙖𝙣𝙙𝙤 𝙩𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖𝙨 𝙘𝙤𝙢𝙤 𝙃𝙏𝙈𝙇, 𝘾𝙨𝙨 𝙮 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩.</p>
+   </div>
   </td>
   </tr>
   </table>
-  </div>
+  
 
 
   
