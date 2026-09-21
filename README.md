@@ -27,8 +27,8 @@
  <a href="https://brayancastro39698.github.io/miCv/">  
    <img src="https://imgur.com/UfZSiQe.jpg"  width="500"  alt="MobiAI"> 
  </a>
-  <br href="https://github.com/BrayanCastro39698/miCv.git">
-  <a> 
+  <br>
+  <a href="https://github.com/BrayanCastro39698/miCv.git"> 
   <img src="https://img.shields.io/badge/CÓDIGO-00AFFF?style=for-the-badge&logo=github&logoColor=black">
   </a>
  <p align="center"> Buscando mi próxima oportunidad laboral. Conoce más sobre mí</p>
