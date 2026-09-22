@@ -28,6 +28,7 @@
    <img src="https://imgur.com/UfZSiQe.jpg"  width="500"  alt="MobiAI"> 
  </a>
   <br>
+  <br>
   <a href="https://github.com/BrayanCastro39698/miCv.git"> 
   <img src="https://img.shields.io/badge/CÓDIGO-00AFFF?style=for-the-badge&logo=github&logoColor=black">
   </a>
@@ -54,6 +55,10 @@
   <a href="https://arycacocinasyclosets.shop/">
   <img src="https://img.shields.io/badge/visita%20la%20página-8A2BE2">
   <a/>
+
+  <a href=" "> 
+  <img src="https://img.shields.io/badge/CÓDIGO-00AFFF?style=for-the-badge&logo=github&logoColor=black">
+  </a>
   
   <p>𝙋𝙖𝙜𝙞𝙣𝙖 𝙒𝙀𝙗 𝙙𝙞𝙨𝙚ñ𝙖𝙙𝙖 𝙥𝙖𝙧𝙖 𝙢𝙞𝙘𝙧𝙤-𝙚𝙢𝙥𝙧𝙚𝙨𝙖 𝙙𝙚𝙙𝙞𝙘𝙖𝙙𝙖 𝙖 𝙡𝙖 𝙛𝙖𝙗𝙧𝙞𝙘𝙖𝙘𝙞ó𝙣 𝙙𝙚 𝙘𝙤𝙘𝙞𝙣𝙖𝙨 𝙮 𝙘𝙡𝙤𝙨𝙚ts 𝙙𝙚 𝙢𝙖𝙙𝙚𝙧𝙖. 𝙎𝙚 𝙙𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙤 𝙞𝙢𝙥𝙡𝙚𝙢𝙚𝙩𝙖𝙣𝙙𝙤 𝙩𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖𝙨 𝙘𝙤𝙢𝙤 𝙃𝙏𝙈𝙇, 𝘾𝙨𝙨 𝙮 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩.</p>
    </div>
