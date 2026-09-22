@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/visita%20la%20página-8A2BE2">
   <a/>
 
-  <a href=" "> 
+  <a href="https://github.com/BrayanCastro39698/paginaAryca"> 
   <img src="https://img.shields.io/badge/CÓDIGO-00AFFF?style=for-the-badge&logo=github&logoColor=black">
   </a>
   
